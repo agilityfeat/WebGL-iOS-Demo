@@ -10,4 +10,4 @@ This XCode project is a proof of concept of how to use `WKWebView` to display We
 
 This Project is missing the WebGL part of it which can be found on [https://github.com/agilityfeat/iOSify](https://github.com/agilityfeat/iOSify).
 
-Be sure to checkout the [(blog post on agilityfeat.com)](http://www.agilityfeat.com/blog/2015/06/using-webgl-in-ios-without-phonegap-or-ionic) which ties it all in.
+Be sure to checkout the [blog post on agilityfeat.com](http://www.agilityfeat.com/blog/2015/06/using-webgl-in-ios-without-phonegap-or-ionic) which ties it all in.
