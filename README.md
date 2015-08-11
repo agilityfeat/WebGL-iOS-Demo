@@ -2,7 +2,7 @@
 
 ![WebGL Cube on iPhone Simulator in XCode](http://blog.agilityfeat.com/wp-content/uploads/2015/08/WebGL_cube_on_iOS_optimized.gif)
 
-[(Click Here to Read Full Post)](http://www.agilityfeat.com/blog/2015/06/using-webgl-in-ios-without-phonegap-or-ionic)
+[(Click Here to Read Full Post)](http://www.agilityfeat.com/blog/2015/08/using-webgl-in-ios-without-phonegap-or-ionic)
 
 # WebGL on iOS Demo App
 
